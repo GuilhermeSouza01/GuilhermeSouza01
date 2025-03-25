@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor Front-end, atualmente estou me graduando no curso de Sistemas de Informação da Unimontes, buscando oportunidades para pôr em prática todos os meus conhecimentos adquiridos.
+Sou desenvolvedor Full-Stack, graduado em Sistemas de Informação da Unimontes, buscando oportunidades para pôr em prática todos os meus conhecimentos adquiridos.
 
 
 ## 🌐 Socials:
